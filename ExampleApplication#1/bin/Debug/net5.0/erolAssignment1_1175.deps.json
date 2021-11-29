@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "erolAssignment1_1175/1.0.0": {
+        "runtime": {
+          "erolAssignment1_1175.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "erolAssignment1_1175/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

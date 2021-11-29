@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = erolAssignment1_1175_p
+build_property.ProjectDir = E:\OneDrive\Personal\3.Study Research\Douglas Class\CSIS_1175\lecture_assigments\assigment1\erolAssignment1_1175\erolAssignment1_1175 p\erolAssignment1_1175 p\
