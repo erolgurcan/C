@@ -1,0 +1,14 @@
+C:\Users\erolg\source\repos\erolAssigment2_1175\erolAssigment2_1175\bin\Debug\erolAssigment2_1175.exe.config
+C:\Users\erolg\source\repos\erolAssigment2_1175\erolAssigment2_1175\bin\Debug\erolAssigment2_1175.exe
+C:\Users\erolg\source\repos\erolAssigment2_1175\erolAssigment2_1175\bin\Debug\erolAssigment2_1175.pdb
+C:\Users\erolg\source\repos\erolAssigment2_1175\erolAssigment2_1175\obj\Debug\erolAssigment2_1175.csproj.AssemblyReference.cache
+C:\Users\erolg\source\repos\erolAssigment2_1175\erolAssigment2_1175\obj\Debug\erolAssigment2_1175.csproj.CoreCompileInputs.cache
+C:\Users\erolg\source\repos\erolAssigment2_1175\erolAssigment2_1175\obj\Debug\erolAssigment2_1175.exe
+C:\Users\erolg\source\repos\erolAssigment2_1175\erolAssigment2_1175\obj\Debug\erolAssigment2_1175.pdb
+C:\Users\erolg\Desktop\csis1175\assigment2\erolAssigment2_1175\erolAssigment2_1175\bin\Debug\erolAssigment2_1175.exe.config
+C:\Users\erolg\Desktop\csis1175\assigment2\erolAssigment2_1175\erolAssigment2_1175\bin\Debug\erolAssigment2_1175.exe
+C:\Users\erolg\Desktop\csis1175\assigment2\erolAssigment2_1175\erolAssigment2_1175\bin\Debug\erolAssigment2_1175.pdb
+C:\Users\erolg\Desktop\csis1175\assigment2\erolAssigment2_1175\erolAssigment2_1175\obj\Debug\erolAssigment2_1175.csproj.AssemblyReference.cache
+C:\Users\erolg\Desktop\csis1175\assigment2\erolAssigment2_1175\erolAssigment2_1175\obj\Debug\erolAssigment2_1175.csproj.CoreCompileInputs.cache
+C:\Users\erolg\Desktop\csis1175\assigment2\erolAssigment2_1175\erolAssigment2_1175\obj\Debug\erolAssigment2_1175.exe
+C:\Users\erolg\Desktop\csis1175\assigment2\erolAssigment2_1175\erolAssigment2_1175\obj\Debug\erolAssigment2_1175.pdb
